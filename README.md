@@ -7,3 +7,5 @@ Tecnologias utilizadas:
 - HTML5
 - CSS3
 - JavaScript
+
+![testando calculadora](https://user-images.githubusercontent.com/102761192/169597764-85fa2034-da2d-4588-888c-0e296f017373.gif)
